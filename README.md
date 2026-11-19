@@ -44,4 +44,4 @@ Returns purchase probability, decision and anomaly flag for each session.
 - `models/`: saved model files (joblib)
 
 ## Author
-Pallab Nath (B2630045), supervised by Dripta Mj.
+Pallab Nath (B2630045)
